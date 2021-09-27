@@ -1,0 +1,30 @@
+2021-09-27 12:19:14,893 : INFO : test_endToEnd : getting all the product titles
+2021-09-27 12:19:14,972 : INFO : test_endToEnd : iphone X
+2021-09-27 12:19:15,001 : INFO : test_endToEnd : Samsung Note 8
+2021-09-27 12:19:15,029 : INFO : test_endToEnd : Nokia Edge
+2021-09-27 12:19:15,174 : INFO : test_endToEnd : Blackberry
+2021-09-27 12:19:15,362 : INFO : test_endToEnd : entering country name as ind
+2021-09-27 12:19:21,097 : INFO : test_endToEnd : Text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-27 12:23:37,054 : INFO : test_HomePage : first name is rahul
+2021-09-27 12:23:38,372 : INFO : test_HomePage : first name is Anshika
+2021-09-27 12:23:38,372 : INFO : test_HomePage : first name is Anshika
+2021-09-27 12:23:46,153 : INFO : test_endToEnd : getting all the product titles
+2021-09-27 12:23:46,219 : INFO : test_endToEnd : iphone X
+2021-09-27 12:23:46,251 : INFO : test_endToEnd : Samsung Note 8
+2021-09-27 12:23:46,281 : INFO : test_endToEnd : Nokia Edge
+2021-09-27 12:23:46,414 : INFO : test_endToEnd : Blackberry
+2021-09-27 12:23:46,603 : INFO : test_endToEnd : entering country name as ind
+2021-09-27 12:23:52,356 : INFO : test_endToEnd : Text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-27 12:25:59,639 : INFO : test_HomePage : first name is rahul
+2021-09-27 12:26:01,008 : INFO : test_HomePage : first name is Anshika
+2021-09-27 12:26:01,008 : INFO : test_HomePage : first name is Anshika
+2021-09-27 12:26:09,614 : INFO : test_endToEnd : getting all the product titles
+2021-09-27 12:26:09,677 : INFO : test_endToEnd : iphone X
+2021-09-27 12:26:09,707 : INFO : test_endToEnd : Samsung Note 8
+2021-09-27 12:26:09,737 : INFO : test_endToEnd : Nokia Edge
+2021-09-27 12:26:09,872 : INFO : test_endToEnd : Blackberry
+2021-09-27 12:26:10,058 : INFO : test_endToEnd : entering country name as ind
+2021-09-27 12:26:15,794 : INFO : test_endToEnd : Text received from the application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
