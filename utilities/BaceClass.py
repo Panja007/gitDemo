@@ -25,3 +25,5 @@ class BaseClass:
     def selectOptionByText(self,loacator,text):
         gender = Select(loacator)
         gender.select_by_visible_text(text)
+add = "hello"
+print(add)
