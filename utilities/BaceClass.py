@@ -27,3 +27,7 @@ class BaseClass:
         gender.select_by_visible_text(text)
 add = "hello"
 print(add)
+add1 = "hello"
+print(add1)
+add2 = "hello"
+print(add2)
