@@ -35,3 +35,6 @@ class Test_end_to_end(BaseClass):
         assert "Success" in confirm.getSuccessText().text
         self.driver.get_screenshot_as_file("screen.png")
         print("The frame work is completed")
+        print("The frame work is completed")
+        print("The frame work is completed")
+        print("The frame work is completed")
